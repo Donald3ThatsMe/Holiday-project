@@ -95,7 +95,7 @@ body {
 /* Hero Section */
 .hero {
     height: 60vh;
-    background: url(BetterBergen.jpg) center/cover no-repeat;
+    background: url(betterbergen.jpg) center/cover no-repeat;
     position: relative;
     color: white;
 }
